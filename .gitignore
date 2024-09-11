@@ -1,0 +1,51 @@
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Other common Python-related files to ignore
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+myenv/bin/pip
+myenv/bin/pip3
+myenv/bin/activate.fish
+myenv/bin/activate.csh
+myenv/bin/python3
+myenv/bin/python3.12
+myenv/bin/python
+myenv/bin/pip3.12
+myenv/bin/Activate.ps1
+myenv/bin/activate
+myenv/pyvenv.cfg
+README.md
